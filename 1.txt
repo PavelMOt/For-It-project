@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ttt
-=======
-new row in 1.txt file
->>>>>>> new_branch
+fix in 1.txt
